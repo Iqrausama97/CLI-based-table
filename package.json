@@ -1,0 +1,18 @@
+{
+  "name": "cli-based-table",
+  "version": "1.0.0",
+  "description": "The CLI based Table",
+  "main": "table.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iqra Usama",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
